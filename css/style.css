@@ -14,7 +14,14 @@ body {
 
 #carreblanc {
     background-color: beige;
-    height: 200px;
+    height: 300px;
     width: 1100px;
-border-radius: 10vh;
+
 }
+
+#left {
+    align-items: baseline;
+    display: block;
+    margin: 41px;
+}
+
